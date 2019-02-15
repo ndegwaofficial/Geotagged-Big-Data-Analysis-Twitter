@@ -1,0 +1,19 @@
+{
+  "addons": [
+
+  ],
+  "buildpacks": [
+
+  ],
+  "description": "",
+  "env": {
+    "GITHUB_USERNAME": "ndegwaofficial",
+    "OTHER_VAR": "production"
+  },
+  "formation": {
+  },
+  "name": "Big-Data-Analysis-Twitter",
+  "scripts": {
+  },
+  "stack": "heroku-18"
+}
